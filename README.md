@@ -1,0 +1,2 @@
+# atom
+[Main] Text editor
