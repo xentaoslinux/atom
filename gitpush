@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=atom
-version="atom (1.4.0)"
+version="atom (1.34.0)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:xentaoslinux/$package.git
