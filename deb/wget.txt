@@ -1,1 +1,0 @@
-https://atom-installer.github.com/v1.34.0/atom-amd64.deb?s=1546643657&ext=.deb
